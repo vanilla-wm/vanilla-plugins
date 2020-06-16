@@ -14,7 +14,9 @@
     "clean": "rm -rf ./lib",
     "release": "lerna publish"
   },
-  "dependencies": {},
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  },
   "devDependencies": {
     "rollup": "^2.16.1",
     "rollup-plugin-commonjs": "^10.1.0",
