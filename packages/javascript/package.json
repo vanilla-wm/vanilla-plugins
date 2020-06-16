@@ -1,0 +1,28 @@
+{
+  "name": "@vanilla-wm/plugin-javascript",
+  "version": "1.0.0",
+  "description": "Code shared between other api packages",
+  "main": "lib/main.js",
+  "author": "norbertdurcansky <norbert@cinnamon.video>",
+  "license": "MIT",
+  "private": true,
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "yarn clean && yarn run tsc",
+    "clean": "rm -rf ./lib",
+    "release": "lerna publish"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "rollup": "^2.16.1",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-sourcemaps": "^0.6.2",
+    "rollup-plugin-terser": "^6.1.0",
+    "rollup-plugin-typescript2": "^0.27.1",
+    "typescript": "^3.9.5"
+  }
+}

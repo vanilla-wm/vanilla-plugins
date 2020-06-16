@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strict": false,
+    "module": "ESNext",
+    "target": "ES2019",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "lib": ["esnext", "es2018", "es7", "es6", "dom"],
+    "esModuleInterop": true,
+    "preserveSymlinks": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "skipLibCheck": true,
+    "declaration": true
+  }
+}
