@@ -1,5 +1,8 @@
 {
+  "include": ["src"],
+  "exclude": ["node_modules", "lib"],
   "compilerOptions": {
+    "jsx": "react",
     "strict": false,
     "module": "ESNext",
     "target": "ES2019",
@@ -12,6 +15,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "skipLibCheck": true,
-    "declaration": true
+    "declaration": true,
+    "baseUrl": "."
   }
 }

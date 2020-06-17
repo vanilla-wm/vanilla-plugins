@@ -9,8 +9,19 @@
   "files": [
     "lib"
   ],
+  "umd:main": "lib/main.umd.js",
+  "module": "lib/main.module.js",
+  "browser": {
+    "./lib/main.js": "./lib/main.js",
+    "./lib/main.module.js": "./lib/main.module.js"
+  },
+  "unpkg": "lib/main.umd.min.js",
+  "jsnext:main": "lib/main.module.js",
+  "react-native": "lib/main.module.js",
+  "types": "lib/index.d.ts",
   "scripts": {
-    "build": "yarn clean && yarn run tsc",
+    "build": "yarn clean && yarn rollup -c",
+    "build:watch": "yarn rollup -cw",
     "clean": "rm -rf ./lib",
     "release": "lerna publish"
   },
@@ -24,7 +35,6 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-sourcemaps": "^0.6.2",
     "rollup-plugin-terser": "^6.1.0",
-    "rollup-plugin-typescript2": "^0.27.1",
-    "typescript": "^3.9.5"
+    "rollup-plugin-typescript2": "^0.27.1"
   }
 }

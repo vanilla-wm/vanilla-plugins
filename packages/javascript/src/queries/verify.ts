@@ -1,4 +1,4 @@
-export default  (requestId)=> `
+export default (requestId) => `
 {
     proof(requestId: "${requestId}") {
         total  
