@@ -4,11 +4,9 @@
   ],
   "command": {
     "publish": {
+      "access": "public",
       "conventionalCommits": true
     }
   },
-  "version": "0.0.3",
-  "publishConfig": {
-    "access": "public"
-  }
+  "version": "0.0.3"
 }
