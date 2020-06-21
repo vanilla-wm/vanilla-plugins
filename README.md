@@ -39,4 +39,4 @@ Reach out to me at one of the following places!
 - Email at <a href="mailto:norbert@cinnamon.video" target="_blank">`norbert@cinnamon.video`</a>
 
 ## License
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **[MIT license](https://github.com/vanilla-wm/vanilla-plugins/blob/master/LICENSE)**
