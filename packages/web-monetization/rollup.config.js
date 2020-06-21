@@ -19,7 +19,22 @@ const build = (outFile, format) => ({
   watch: {
     include: 'src/**',
   },
-  plugins: [json(), typescript(), commonjs(), resolve(), terser()],
+  plugins: [
+    json(),
+    typescript(),
+    resolve(),
+    commonjs(),
+    terser({
+      module: true,
+      toplevel: true,
+      mangle:{
+        toplevel: true
+      },
+      output: {
+        beautify: false,
+      },
+    }),
+  ],
 })
 
-export default [build(`${bundleName}.js`, 'cjs')]
+export default [build(`${bundleName}.min.js`, 'cjs')]
