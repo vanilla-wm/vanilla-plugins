@@ -1,6 +1,6 @@
 {
   "name": "@vanilla-lab/web-monetization",
-  "version": "0.0.4",
+  "version": "0.0.0",
   "description": "Web Monetization API for Vanilla Service",
   "main": "lib/main.js",
   "author": "norbertdurcansky <norbert@cinnamon.video>",
@@ -38,5 +38,6 @@
     "rollup-plugin-sourcemaps": "^0.6.2",
     "rollup-plugin-terser": "^6.1.0",
     "rollup-plugin-typescript2": "^0.27.1"
-  }
+  },
+  "gitHead": "47ffa4a1c2a4d87d40ebcc959eb3d4c584e7e71a"
 }
