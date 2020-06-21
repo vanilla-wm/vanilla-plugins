@@ -9,15 +9,9 @@
   "files": [
     "lib"
   ],
-  "umd:main": "lib/main.umd.js",
-  "module": "lib/main.module.js",
   "browser": {
-    "./lib/main.js": "./lib/main.js",
-    "./lib/main.module.js": "./lib/main.module.js"
+    "./lib/main.js": "./lib/main.js"
   },
-  "unpkg": "lib/main.umd.min.js",
-  "jsnext:main": "lib/main.module.js",
-  "react-native": "lib/main.module.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "yarn clean && yarn rollup -c",
