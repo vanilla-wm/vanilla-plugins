@@ -5,15 +5,15 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-* Applications that require higher level of security want to ensure that the *exclusive* content is served to monetized users.
-* **Vanilla Web Monetization** improves the application security with the *back-end payments verification system*.
-* Plugins created in this library provide simple API for using Web monetization in different languages and frameworks.
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 
-## Plugins
-* [Javascript](https://github.com/vanilla-wm/vanilla-plugins/tree/master/packages/javascript)
 
-## Contribution
+
+
+## Contributing
 Contact me at <a href="mailto:norbert@cinnamon.video" target="_blank">`norbert@cinnamon.video`</a>
 
 ## License
