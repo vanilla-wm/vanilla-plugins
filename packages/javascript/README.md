@@ -3,8 +3,6 @@
 # Vanilla Plugin JavaScript
 > JavaScript API for Vanilla Web Monetization features
 
-[![npm](https://img.shields.io/npm/v/react-infinite-scroller.svg?style=flat-square)](https://www.npmjs.com/package/@vanilla-wm/plugin-javascript)
-[![npm](https://img.shields.io/npm/l/react-infinite-scroller.svg?style=flat-square)](https://github.com/vanilla-wm/vanilla-plugins/edit/master/packages/javascript/LICENSE)
 
 ## Demo
 

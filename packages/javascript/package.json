@@ -1,11 +1,11 @@
 {
   "name": "@vanilla-lab/plugin-javascript",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Code shared between other api packages",
   "main": "lib/main.js",
   "author": "norbertdurcansky <norbert@cinnamon.video>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "files": [
     "lib"
   ],
