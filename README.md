@@ -4,20 +4,21 @@
 
 # Vanilla Plugins
 
-> Library plugins for simple integration of the Vanilla API.
+> Library plugins for simple integration of the Vanilla Web Monetization.\
 
-> Web Monetization features for complex applications that require higher level of security
+Applications that require higher level of security want to ensure that the exclusive content is served to monetized users.
+
+Vanilla Web Monetization improves the application security with the back-end payments verification system. Plugins created in this library provide simple API for using We monetization in different languages and frameworks.
 
 
 ## Plugins
-
+* [Javascript](https://github.com/vanilla-wm/vanilla-plugins/tree/master/packages/javascript)
 
 ## Contributing
 
 > To get started...
 
 ### Step 1
-
 - **Option 1**
     - 🍴 Fork this repo!
 
