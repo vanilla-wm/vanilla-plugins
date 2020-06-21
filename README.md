@@ -1,5 +1,7 @@
 <a href="https//admin.vanilla.so"><img src="https://admin.vanilla.so/icons/apple-icon.png" alt="Vanilla Plugins"></a>
 
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
 # Vanilla Plugins
 
 > Library plugins for simple integration of the Vanilla API.
@@ -24,7 +26,7 @@
 
 ### Step 2
 
-- **HACK AWAY!** 🔨🔨🔨
+- **HACK AWAY!** 🔨
 
 ### Step 3
 
@@ -37,7 +39,4 @@ Reach out to me at one of the following places!
 - Email at <a href="mailto:norbert@cinnamon.video" target="_blank">`norbert@cinnamon.video`</a>
 
 ## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
