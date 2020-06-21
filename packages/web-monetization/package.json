@@ -23,7 +23,9 @@
     "build": "yarn clean && yarn rollup -c",
     "build:watch": "yarn rollup -cw",
     "clean": "rm -rf ./lib",
-    "release": "lerna publish"
+    "prepublish": "yarn build",
+    "release": "yarn lerna publish",
+    "release:dev": "yarn lerna publish -- canary"
   },
   "dependencies": {
     "isomorphic-fetch": "^2.2.1"
