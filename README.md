@@ -6,9 +6,9 @@
 
 > Library plugins for simple integration of the Vanilla Web Monetization.\
 
-Applications that require higher level of security want to ensure that the exclusive content is served to monetized users.
-
-Vanilla Web Monetization improves the application security with the back-end payments verification system. Plugins created in this library provide simple API for using We monetization in different languages and frameworks.
+Applications that require higher level of security want to ensure that the *exclusive* content is served to monetized users.
+**Vanilla Web Monetization** improves the application security with the *back-end payments verification system*.
+Plugins created in this library provide simple API for using We monetization in different languages and frameworks.
 
 
 ## Plugins
