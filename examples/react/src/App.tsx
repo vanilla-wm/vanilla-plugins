@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import vanillaWm from '@vanilla-wm/plugin-javascript'
+import vanillaWm from '@vanilla-lab/web-monetization'
 
 // VanillaVW JavaScript plugin initialization
 const monetization = vanillaWm({
