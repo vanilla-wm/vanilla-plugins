@@ -12,8 +12,8 @@ const build = (outFile, format) => ({
     {
       file: `./lib/${outFile}`,
       format,
-      sourcemap: true,
-      name: ['umd', 'iife'].includes(format) ? bundleName : undefined,
+      sourcemap: false,
+      name: undefined,
     },
   ],
   watch: {
