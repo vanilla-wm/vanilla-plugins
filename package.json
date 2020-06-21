@@ -1,6 +1,6 @@
 {
   "name": "@vanilla-lab/plugins",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Vanilla WM plugins",
   "main": "index.js",
   "repository": "https://github.com/vanilla-wm/vanilla-plugins.git",
