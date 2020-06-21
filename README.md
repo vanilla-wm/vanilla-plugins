@@ -1,6 +1,7 @@
 <a href="https//admin.vanilla.so"><img src="https://admin.vanilla.so/icons/apple-icon.png" alt="Vanilla Plugins"></a>
 
 ![License](https://img.shields.io/github/license/vanilla-wm/vanilla-plugins)
+
 # Vanilla Plugins
 > Library plugins for simple integration of the Vanilla Web Monetization.
 

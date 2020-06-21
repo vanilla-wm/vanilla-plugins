@@ -1,7 +1,7 @@
 {
-  "name": "@vanilla-lab/plugin-javascript",
+  "name": "@vanilla-lab/web-monetization",
   "version": "0.0.0",
-  "description": "Code shared between other api packages",
+  "description": "Web Monetization API for Vanilla Service",
   "main": "lib/main.js",
   "author": "norbertdurcansky <norbert@cinnamon.video>",
   "license": "MIT",

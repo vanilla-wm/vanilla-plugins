@@ -1,6 +1,8 @@
 <a href="https//admin.vanilla.so"><img src="https://admin.vanilla.so/icons/apple-icon.png" alt="Vanilla Plugins"></a>
 
-# Vanilla Plugin JavaScript
+![License](https://img.shields.io/npm/l/@vanilla-lab/plugin-javascript)
+
+# Vanilla Plugin Monetization
 > JavaScript API for Vanilla Web Monetization features
 
 
