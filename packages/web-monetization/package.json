@@ -23,9 +23,7 @@
     "build": "yarn clean && yarn rollup -c",
     "build:watch": "yarn rollup -cw",
     "clean": "rm -rf ./lib",
-    "prepublish": "yarn build",
-    "release": "yarn lerna publish",
-    "release:dev": "yarn lerna publish -- canary"
+    "prepublish": "yarn build"
   },
   "publishConfig": {
     "access": "public"
