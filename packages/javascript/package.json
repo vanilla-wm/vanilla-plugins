@@ -1,5 +1,5 @@
 {
-  "name": "@vanilla-wm/plugin-javascript",
+  "name": "@vanilla-lab/plugin-javascript",
   "version": "1.0.0",
   "description": "Code shared between other api packages",
   "main": "lib/main.js",

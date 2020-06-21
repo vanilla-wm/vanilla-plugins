@@ -1,5 +1,5 @@
 {
-  "name": "@vanilla-vw/example-plugin-javascript",
+  "name": "@vanilla-lab/example-plugin-javascript",
   "version": "0.0.0",
   "private": true,
   "dependencies": {

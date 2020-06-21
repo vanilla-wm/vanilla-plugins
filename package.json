@@ -1,5 +1,5 @@
 {
-  "name": "@vanilla-wm/vanilla-plugins",
+  "name": "@vanilla-lab/plugins",
   "version": "1.0.0",
   "description": "Vanilla WM plugins",
   "main": "index.js",
