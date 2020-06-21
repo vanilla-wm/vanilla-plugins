@@ -1,9 +1,8 @@
 <a href="https//admin.vanilla.so"><img src="https://admin.vanilla.so/icons/apple-icon.png" alt="Vanilla Plugins"></a>
 
+![License](https://img.shields.io/github/license/vanilla-wm/vanilla-plugins)
 # Vanilla Plugins
 > Library plugins for simple integration of the Vanilla Web Monetization.
-
-![License](https://img.shields.io/github/license/vanilla-wm/vanilla-plugins)
 
 * Applications that require higher level of security want to ensure that the *exclusive* content is served to monetized users.
 * **Vanilla Web Monetization** improves the application security with the *back-end payments verification system*.
