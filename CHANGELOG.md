@@ -6,3 +6,11 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ## [0.0.1](https://github.com/vanilla-wm/vanilla-plugins/compare/v0.0.4...v0.0.1) (2020-06-21)
 
 **Note:** Version bump only for package @vanilla-lab/plugins
+
+
+
+
+
+## [0.0.1](https://github.com/vanilla-wm/vanilla-plugins/compare/v0.0.4...v0.0.1) (2020-06-21)
+
+**Note:** Version bump only for package @vanilla-lab/plugins
