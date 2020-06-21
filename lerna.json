@@ -4,9 +4,8 @@
   ],
   "command": {
     "publish": {
-      "conventionalCommits": true,
-      "yes": true
+      "conventionalCommits": true
     }
   },
-  "version": "0.0.2"
+  "version": "0.0.0"
 }
