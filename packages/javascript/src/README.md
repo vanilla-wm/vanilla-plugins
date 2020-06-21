@@ -17,4 +17,5 @@
 Contact me at <a href="mailto:norbert@cinnamon.video" target="_blank">`norbert@cinnamon.video`</a>
 
 ## License
-- **[MIT license](https://github.com/vanilla-wm/vanilla-plugins/blob/master/LICENSE)**
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
