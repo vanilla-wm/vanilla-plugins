@@ -3,7 +3,7 @@
 # Vanilla Plugins
 > Library plugins for simple integration of the Vanilla Web Monetization.
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+![License](https://img.shields.io/github/license/vanilla-wm/vanilla-plugins)
 
 * Applications that require higher level of security want to ensure that the *exclusive* content is served to monetized users.
 * **Vanilla Web Monetization** improves the application security with the *back-end payments verification system*.
