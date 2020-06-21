@@ -14,30 +14,8 @@ Plugins created in this library provide simple API for using We monetization in 
 ## Plugins
 * [Javascript](https://github.com/vanilla-wm/vanilla-plugins/tree/master/packages/javascript)
 
-## Contributing
-
-> To get started...
-
-### Step 1
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/vanilla-wm/vanilla-plugins.git`
-
-### Step 2
-
-- **HACK AWAY!** 🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/vanilla-wm/vanilla-plugins/compare/" target="_blank">`https://github.com/vanilla-wm/vanilla-plugins/compare/`</a>.
-
-## Support
-
-Reach out to me at one of the following places!
-
-- Email at <a href="mailto:norbert@cinnamon.video" target="_blank">`norbert@cinnamon.video`</a>
+## Contribution
+Contact me at <a href="mailto:norbert@cinnamon.video" target="_blank">`norbert@cinnamon.video`</a>
 
 ## License
 - **[MIT license](https://github.com/vanilla-wm/vanilla-plugins/blob/master/LICENSE)**
