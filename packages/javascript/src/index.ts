@@ -1,3 +1,3 @@
-import vanillaWm from "./VanillaWm"
+import initialize from "./initialize"
 
-export default vanillaWm
+export default initialize
