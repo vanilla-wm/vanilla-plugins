@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Web Monetization API for Vanilla Service",
   "main": "lib/main.js",
+  "types": "lib/types/index.d.ts",
   "author": "norbertdurcansky <norbert@cinnamon.video>",
   "license": "MIT",
   "private": false,
@@ -12,13 +13,12 @@
   "browser": {
     "./lib/main.js": "./lib/main.js"
   },
-  "types": "lib/index.d.ts",
   "scripts": {
     "build": "yarn clean && yarn rollup -c",
     "build:watch": "yarn rollup -cw",
     "clean": "rm -rf ./lib",
     "prepublish": "yarn build",
-    "release":"yarn lerna publish --canary"
+    "release": "yarn lerna publish --canary"
   },
   "publishConfig": {
     "access": "public"
