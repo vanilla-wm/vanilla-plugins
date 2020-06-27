@@ -37,16 +37,7 @@ const build = (outFile, format) => ({
     typescript(typescriptConfig),
     resolve(),
     commonjs(),
-    terser({
-      module: true,
-      toplevel: true,
-      mangle: {
-        toplevel: true,
-      },
-      output: {
-        beautify: false,
-      },
-    }),
+    terser(),
   ],
 })
 
