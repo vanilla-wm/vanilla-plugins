@@ -6,15 +6,6 @@ import { terser } from 'rollup-plugin-terser'
 
 const bundleName = 'main'
 
-const typescriptConfig = {
-  useTsconfigDeclarationDir: true,
-  tsconfigDefaults: {
-    compilerOptions: {
-      declarationDir: 'lib/types',
-    },
-  },
-}
-
 const build = (outFile, format) => ({
   input: 'src/index.ts',
   external: ['isomorphic-fetch'],
@@ -23,7 +14,6 @@ const build = (outFile, format) => ({
       file: `./lib/${outFile}`,
       format,
       sourcemap: false,
-      name: undefined,
       globals: {
         'isomorphic-fetch': 'fetch',
       },
@@ -34,11 +24,11 @@ const build = (outFile, format) => ({
   },
   plugins: [
     json(),
-    typescript(typescriptConfig),
+    typescript({ useTsconfigDeclarationDir: true }),
     resolve(),
     commonjs(),
     terser(),
   ],
 })
 
-export default [build(`${bundleName}.min.js`, 'cjs')]
+export default [build(`${bundleName}.js`, 'cjs')]

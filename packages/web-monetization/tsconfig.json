@@ -16,6 +16,7 @@
     "isolatedModules": true,
     "skipLibCheck": true,
     "declaration": true,
-    "baseUrl": "."
+    "baseUrl": ".",
+    "declarationDir": "lib/types"
   }
 }
