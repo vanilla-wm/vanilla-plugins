@@ -11,7 +11,7 @@
 
 
 ## Plugins
-* [Javascript](https://github.com/vanilla-wm/vanilla-plugins/tree/master/packages/javascript)
+* [Javascript](https://github.com/vanilla-wm/vanilla-plugins/tree/master/packages/web-monetization)
 
 ## Contributing
 Contact me at <a href="mailto:norbert@cinnamon.video" target="_blank">`norbert@cinnamon.video`</a>

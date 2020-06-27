@@ -9,7 +9,7 @@
 
 ## Demo
 
-* [React Application](https://github.com/vanilla-wm/vanilla-plugins/tree/master/examples/react)
+* [React Application](https://github.com/vanilla-wm/vanilla-plugins/tree/master/examples/web-monetization)
 
 ## Installation
 ```
