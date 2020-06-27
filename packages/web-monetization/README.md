@@ -8,8 +8,7 @@
 
 > Securely enable your content for Web Monetization users without depending on ILP stack
 
-Using [Web Monetization](https://github.com/interledger/rfcs/blob/master/0028-web-monetization/0028-web-monetization.md), you often want to detect whether a visitor of your site is paying for the content. `@vanilla-lab/web-monetization` library uses **Vanilla Service** to validate payments and the interaction with **Vanilla Service** is provided by the simple API described bellow. 
-
+Using [Web Monetization](https://github.com/interledger/rfcs/blob/master/0028-web-monetization/0028-web-monetization.md), you often want to detect whether a visitor of your site is paying for the content. `@vanilla-lab/web-monetization` library uses **Vanilla Service** to validate payments by providing simple API described bellow.
 
 - [Demo](#demo)
 - [Installation](#installation)
@@ -47,6 +46,7 @@ Name                |Required        |Type    |Description |
 | `clientId`| yes| string| Generated `clientId`|
 | `clientSecret`| yes |string| Generated `clientSecret`|
 | `verbose` | no | boolean | Log info about verification process to console | 
+
 
 ```js
 const monetization = vanillaWm({
