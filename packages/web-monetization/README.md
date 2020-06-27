@@ -149,4 +149,4 @@ Contact me at <a href="mailto:norbert@cinnamon.video" target="_blank">`norbert@c
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/vanilla-wm/vanilla-plugins/blob/master/packages/web-monetization/LICENSE) file for details
