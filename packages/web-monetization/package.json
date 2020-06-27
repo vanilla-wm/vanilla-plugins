@@ -5,8 +5,14 @@
   "main": "lib/main.js",
   "types": "lib/types/index.d.ts",
   "author": "norbertdurcansky <norbert@cinnamon.video>",
-  "license": "MIT",
+  "license" : "MIT" ,
   "private": false,
+  "homepage": "https://github.com/vanilla-wm/vanilla-plugins/tree/master/packages/web-monetization",
+  "keywords": ["web-monetization","monetization","vanilla"],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/vanilla-wm/vanilla-plugins.git"
+  },
   "files": [
     "lib"
   ],
