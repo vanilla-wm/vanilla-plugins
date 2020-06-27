@@ -36,8 +36,8 @@ Name                |Required        |Type    |Description |
 | `clientId`| yes| string| Generated `clientId`|
 | `clientSecret`| yes |string| Generated `clientSecret`|
 | `verbose` | no | boolean | Log info about verification process to console | 
-```js
 
+```js
 const monetization = vanillaWm({
   clientId: clientId,
   clientSecret: clientSecret,
